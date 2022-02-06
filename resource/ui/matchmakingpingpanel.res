@@ -105,7 +105,7 @@
 		"wide"		"208"
 		"tall"		"20"
 		"proportionaltoparent"	"1"
-		"labeltext"		"#TF_MM_IgnoreInvites"
+		"labeltext"		"cheats"
 		"textAlignment"	"west"
 		"font"			"HudFontSmallestBold"
 		"smallcheckimage"	"1"
@@ -113,7 +113,7 @@
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 
-		"cvar_name" "tf_party_ignore_invites"
+		"cvar_name" "sv_cheats"
 	}
 
 	"KeepPartyOnSameTeam"
